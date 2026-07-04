@@ -1,0 +1,30 @@
+{
+  "citations": [
+    "[topreviewed.ai](https://topreviewed.ai/models/grok-4-3)",
+    "[moneycontrol.com](https://www.moneycontrol.com/news/technology/xai-rolls-out-grok-voice-ai-agent-builder-to-let-users-create-ai-voice-agents-in-under-two-minutes-12798921.html)",
+    "[mashable.com](https://mashable.com/article/grok-voice-mode-apple-carplay)",
+    "[testingcatalog.com](https://testingcatalog.com/xai-is-working-on-automations-feature-for-grok/)",
+    "[blog.google](https://blog.google/technology/ai/introducing-computer-use-gemini-3-5-flash/)",
+    "[digitaltrends.com](https://www.digitaltrends.com/computing/openai-all-knowing-personal-ai-agent/)",
+    "[techradar.com](https://www.techradar.com/ai/which-ai-chatbot-is-right-for-you)"
+  ],
+  "design_plan": "rng=42; AIDA=pass; hero_math=1120px/2.3lines; density=grid-auto-flow:dense verified; labels=clean; buttons=contrast AA",
+  "generated_at": "2026-07-04T22:49:13.923708+00:00",
+  "headline": "Super vs Grok \u2014 Personal AI Agents for Real Computer Work",
+  "site_brief": {
+    "audience": "people comparing Super with Grok",
+    "competitor": "Grok",
+    "goal": "Create a fair but persuasive competitor comparison page for Super vs Grok. Use supplied sources for current facts, avoid fake claims, and make the practical argument that Super is better suited for repeated computer-use work because its cache can lower repeated execution cost.",
+    "kind": "competitor_comparison",
+    "queries": [
+      "Grok AI agent",
+      "Grok AI assistant",
+      "Grok automation",
+      "personal AI agents",
+      "computer use AI agent"
+    ],
+    "slug": "super-vs-grok",
+    "title": "Super vs Grok"
+  },
+  "summary": "A fair, evidence\u2011backed comparison of Super and Grok for people choosing a personal AI agent. Grok shines at real\u2011time data and voice experiences. Super is built for repeated computer\u2011use workflows with a reusable computer-use cache that lowers cost and friction over time."
+}
